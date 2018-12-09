@@ -21,8 +21,3 @@ There are only two things that you need to take this course: an internet connect
 
 The course is 1.5 hours long and is structured in a step-by-step manner, from simple to more difficult concepts. We build the JavaScript game from the ground up and cover each game component one at a time - so you will never feel overwhelmed with the content.
 
- With the knowledge gained in this course you can move forward and build more complex JavaScript games, and use the game you created at the end of this course to add to your portfolio or just impress your friends.
-
-The material in this course is adapted from MDN, licensed under CC-BY-SA 2.5.
-
-I hope to hear from you soon, and look forward to having you in my course!
